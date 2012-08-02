@@ -1,4 +1,5 @@
 *.swp
+.idea*
 
 README.html
 collmex-ruby-0.1.0.gem
